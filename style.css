@@ -1,7 +1,67 @@
-#body {
-  background-color:red;
+body{
+  background-color: #333;
+  margin: 0;
 }
-#para {
-  background-color: #444;
-  padding: auto;
+#H1{
+  background-color: crimson;
+  padding: 5px ;
+  margin-left: 0px;
+  margin-right:0px;
+  margin-top: 0px;
+  margin-bottom: 0;
+  text-align:center;
+  border:5px solid crimson;
+  text-transform: uppercase;
+  font-size:60px;
+  font-family: cursive;
+}
+
+#Nav{
+  background-color: grey;
+  color: black;
+  margin: 0px;
+  border: 1px solid grey;
+  
+}
+#Nav ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+
+}
+#Nav li{
+  display: inline;
+  padding: 7px 10.1%;
+  padding-bottom: 3.5px;
+  padding-top: 13px;
+  padding-bottom: 5px;
+}
+#Nav a{
+  color: black;
+  text-decoration: none;
+  font-size: 25px;
+}
+#Nav a:hover{
+  color:grey;
+
+}
+#Nav li:hover{
+  background-color: white;
+
+  
+}
+#section{
+  background-image: url(/Naruto_Uzumaki!!.png);
+  background-position: center;
+  min-height: 1000px;
+  min-height: 600px;
+  padding: 0;
+  margin: 0;
+  
+}
+#section h1{
+  color: red;
+  font-size: 80px;
+  margin: 0;
+
 }
