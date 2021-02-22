@@ -1,2 +1,2 @@
 console.log("Hello World");
-alert("ce faci");
+aert("ce faci");
